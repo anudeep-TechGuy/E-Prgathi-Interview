@@ -1,0 +1,38 @@
+.header-one{
+    text-align: center;
+     color:red;
+ }
+
+ .slider-start{
+     display: none;
+     float:right;
+     
+     
+ }
+ #carouselExampleControls{
+     position: sticky;
+ }
+ #rotate{
+vertical-align:top;
+transform:rotate(7deg);
+-ms-transform:rotate(90deg); /* IE 9 */
+-moz-transform:rotate(90deg); /* Firefox */
+-webkit-transform:rotate(90deg); /* Safari and Chrome */
+-o-transform:rotate(90deg); /* Opera */}
+
+.sticky {
+    margin:10px;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 150px;
+    margin-right:10px;
+
+    
+  }
+  .dummy-text{
+      text-align: justify;
+  }
+  .complete-sticky{
+    position: -webkit-sticky;
+    position: sticky;
+  }
